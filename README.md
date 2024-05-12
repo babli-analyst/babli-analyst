@@ -1,10 +1,8 @@
 Diving into data analysis, fueled by curiosity and dedication. Eager to learn, grow, and contribute to this dynamic and exciting field.
 
-<div style="text-align:center;">
-    
-![MasterHead](https://www.arkatechture.com/hs-fs/hubfs/Data%20Flow%20Generic-gif.gif?width=539&name=Data%20Flow%20Generic-gif.gif)
-
-</div>
+<p align="center">
+  <img src="https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif">
+</p>
 
 <h1 align="center">Hi 👋, I'm Babli Kumari</h1>
 <h3 align="center">Analyzing Data to Unlock Insights and Drive Decision-making</h3>
