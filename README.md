@@ -1,7 +1,7 @@
 Diving into data analysis, fueled by curiosity and dedication. Eager to learn, grow, and contribute to this dynamic and exciting field.
 
 <p align="center">
-  <img src="https://static1.s123-cdn-static-a.com/uploads/2469257/normal_5d659ef3cbfe7.gif">
+  <img src="https://static1.s123-cdn-static-a.com/uploads/2469257/normal_5d659ef3cbfe7.gif" width="300" height="200">
 </p>
 
 <h1 align="center">Hi 👋, I'm Babli Kumari</h1>
