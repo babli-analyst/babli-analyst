@@ -4,7 +4,7 @@ Diving into data analysis, fueled by curiosity and dedication. Eager to learn, g
 
 <h1 align="center">Hi 👋, I'm Babli Kumari</h1>
 <h3 align="center">Analyzing Data to Unlock Insights and Drive Decision-making</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Mg4Xpkes9SPEWJSc7w08654CrZ0Zhof14NZ7Yq5OOA&s"
+<img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/woman-doing-data-analysis-on-laptop-8844848-7234143.mp4"
 
 
 
